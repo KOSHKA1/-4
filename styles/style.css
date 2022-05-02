@@ -1,0 +1,51 @@
+header{
+	background-color: #0020F4;
+
+}
+ul,li{
+	list-style-type: none;
+	color: white;
+	font-size: 16px;
+}
+.alink{
+	background-color: #FFFFFF;
+    width: 160px;
+    height: 55px;
+
+}
+.divv{
+	width: 219;
+	height: 219;
+}
+p{
+	color: #171717;
+	font-size: 16px;
+
+}
+.second{
+	color: #171717;
+	font-size: 16px;
+
+}
+.third{
+	color: #171717;
+	font-size: 16px;
+
+}
+button{
+	background-color: #0A22F4;
+	color: #FFFFFF;
+	
+}
+footer{
+	background-color: #0A22F4;
+	color: #FFFFFF;
+}
+.heart{
+	width: 26px ;
+	height:26px ;
+}
+
+	
+	
+
